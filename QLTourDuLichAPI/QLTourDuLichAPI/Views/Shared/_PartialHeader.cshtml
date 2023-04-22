@@ -1,0 +1,86 @@
+﻿@using Microsoft.AspNetCore.Http;	
+<!-- Navbar -->
+<nav class="navbar">
+	<div class="container">
+		<div class="navbar-bars">
+			<a href="#" class="navbar-title sidebar-toggle" style="padding: 0;"><i class="ion-navicon-round"></i></a>
+			<a asp-controller="Home" asp-action="Index" class="navbar-title">VietNam Travel Time</a>
+		</div>
+		<div class="navbar-item">
+			<a asp-controller="Home" asp-action="Index" class="navbar-title">VietNam Travel Time</a>
+			<ul>
+				<li><a asp-controller="Home" asp-action="DiemDen">Điểm Đến</a></li>
+				<li><a asp-controller="Home" asp-action="ThuVien">Thư Viện</a></li>
+				<li><a data-slide="slides" data-slide-target="#discover">Khám Phá</a></li>
+				<li><a asp-controller="Home" asp-action="TinTuc">Tin Tức</a></li>
+				@if (Context.Session.GetString("UserName")==null)
+				{
+					<li>
+					<a asp-controller="Access" asp-action="Login">
+						<button class="btn-login" id="hihi">Đăng nhập</button>
+					</a>
+					</li>
+				}
+				else
+				{
+					<li>
+					<a asp-controller="Access" asp-action="Logout">
+						<button class="btn-login" id="hihi">Đăng Xuất</button>
+					</a>
+				</li>
+				}
+
+				
+			</ul>
+		</div>
+	</div>
+</nav>
+
+<!-- Sidebar -->
+<div class="sidebar">
+	<ul class="sidebar-list">
+		<li><a href="" class="close"><span class="ion-android-close"></span></a></li>
+		<li class="sidebar-list-hover"><a asp-controller="Home" asp-action="Index">Home</a></li>
+		<li class="sidebar-list-hover"><a asp-controller="Home" asp-action="DiemDen">Điểm Đến</a></li>
+		<li class="sidebar-list-hover"><a asp-controller="Home" asp-action="ThuVien">Gallery</a></li>
+		<li class="sidebar-list-hover"><a href="index.html#discover">Discover</a></li>
+		<li class="sidebar-list-hover"><a asp-controller="Home" asp-action="TinTuc">Tin Tức</a></li>
+		@if (Context.Session.GetString("UserName") == null)
+		{
+			<li><a class="btn btn-orange btn-round" asp-controller="Access" asp-action="Login">Đăng Nhập</a></li>
+		}
+		else
+		{
+			<li><a class="btn btn-orange btn-round" asp-controller="Access" asp-action="Logout">Đăng Xuất</a></li>
+		}
+		<li><a class="btn btn-orange btn-round" href="login.html"> Đăng Nhập</a></li>
+	</ul>
+</div>
+<!-- Sidebar Overlay -->
+<section class="sidebar-overlay"></section>
+
+<!-- Login Form -->
+<div class="login-form">
+	<div class="login-top">
+		<span class="close">&times;</span>
+	</div>
+	<div class="login">
+		<h3 class="text-center">
+			VieVal Log In
+		</h3>
+		<div class="form-input">
+			<label>Email</label> <br>
+			<input type="email" name="" class="form-control">
+		</div>
+		<div class="form-input">
+			<label>Password</label> <br>
+			<input type="password" name="" class="form-control">
+		</div>
+		<div class="form-input">
+			<button type="submit" class="btn btn-login">Log In</button>
+		</div>
+		<a href="" class="text-center">Don't have account ? Register now</a>
+	</div>
+</div>
+
+<div class="login-overlay"></div>

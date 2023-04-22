@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "TinTuc";
+    Layout = "~/Views/Shared/_LayoutTinTuc.cshtml";
+}
+
+@using X.PagedList.Mvc.Core
+@model X.PagedList.IPagedList<TinTuc>
+@*@model IEnumerable<BTLNHOM10.Models.TinTuc>*@
+<div class="content">
+    @foreach (var item in Model)
+    {
+        <div class="col">
+            <div class="content-img">
+                <img src="@Url.Content("../img/AnhTinTuc/"+item.Anh)">
+            </div>
+            <div class="content-desc">
+                <div class="content-desc-title">
+                    <a href="single-event.html"><h3>@item.MoTa</h3></a>
+                </div>
+                <div class="content-desc-text">
+                    <ul class="breadcrumb-post">
+                        <li><i class="ion-calendar"></i> &nbsp; / &nbsp;</li>
+                        <li><i class="ion-person"></i> @item.MaNv</li>
+                    </ul>
+                    <p>
+                        @item.MoTa
+                    </p>
+                    <a class="btn btn-md btn-orange" style="margin-top: 10px;" asp-controller="Home" asp-action="ChiTietTinTuc" asp-route-maTin="@item.MaTin">Read More</a>
+                </div>
+            </div>
+        </div>
+    }
+    <ul class="pagination">
+        @Html.PagedListPager(Model, page=>Url.Action("TinTuc", new{page=page}))
+    </ul>
+    </div>
+   

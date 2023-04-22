@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewData["Title"] = "KhachSan";
+    Layout = "~/Views/Shared/_LayoutKhachSan.cshtml";
+}
+
+@model X.PagedList.IPagedList<KhachSan>
+@using X.PagedList.Mvc.Core
+
+<section class="section section-single">
+	<div class="container-fluid">
+		<div class="single-head">
+			<div class="col">
+				<img src="../img/icon/destination.png">
+				<h3>TÌM Khách Sạn bàn đang cần!</h3>
+				<p>Sau đây là danh sách các khách sạn có sẵn vui lòng chọn theo ý muốn</p>
+			</div>
+			<div class="col-form">
+				<form method="POST">
+				</form>
+			</div>
+		</div>
+		<div class="single-body">
+			@foreach (var item in Model)
+			{
+				@await Html.PartialAsync("_PartialKhachSan", item)
+			}
+		</div>
+	</div>
+</section>
+<ul class="pagination">
+	@Html.PagedListPager(Model, page=>Url.Action("KhachSan", new{page=page}))
+</ul>

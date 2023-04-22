@@ -1,0 +1,101 @@
+﻿@{
+    ViewData["Title"] = "chitietTour";
+    Layout = "~/Views/Shared/_LayoutChiTietTour.cshtml";
+}
+<!-- Section -->
+<section class="section-ticket">
+@foreach(var item in ViewBag.chi){
+
+		<div class="header">		
+		<img src="@Url.Content("../img/anhdaidien/"+item.Anh)">
+			<div class="overlay">
+				<div class="desc">
+					<h3>@item.TenTour</h3>
+					@for (int i = 0; i <@item.XepHangTour; i++)
+					{
+						<span class="ion-ios-star checked"></span>
+					}
+					@for (int i = 0; i < 5 - @item.XepHangTour; i++)
+					{
+						<span class="ion-ios-star"></span>
+					}							
+				</div>
+			</div>
+		</div>
+}
+    <div class="body">
+        <div class="panel">
+            <div class="panel-header">
+                <span class="ion-android-clipboard"></span>&nbsp; Chi Tiết Vé
+            </div>
+			@foreach(var item in ViewBag.chi)
+			{
+				<div class="panel-body">
+					<div class="detail">
+						<div class="col-1">
+							<div class="col">
+                                <span class="ion-clock"></span>Thời gian du lịch:@item.SoNgayDl ngày
+                            </div>
+							<div class="col">
+								<span class="ion-person-stalker"></span> Min 1 | Max 15 Khách
+							</div>
+							<div class="col">
+                                <span class="ion-model-s"></span>Điểm xuất phát:@item.DiemXuatPhat
+							</div>
+							<div class="col">								
+								<span><ion-icon name="globe-outline"></ion-icon></span>
+							</div>
+						</div>
+						<div class="col-2">
+							<b>Chỉ Từ</b>
+							<h2><b style="color: #f25601">@item.GiaCho.ToString("#,##0") VND</b><small>/ Khách</small></h2> <br>
+							<a href=""@* data-slide="slides" data-slide-target="#find"*@ class="btn-ticket btn-orange">Mua Vé</a>
+						</div>
+					</div>
+				</div>
+            }
+        </div>
+		<div class="panel">
+            <div class="panel-header">
+                <span class="ion-ios-bookmarks"></span>&nbsp; Mô Tả
+            </div>	 
+			<div class="panel-body">								
+					@foreach (var image in ViewBag.chitiet)
+					{              
+					<div>
+						<div><h3 style="color: #f25601">@image.Tendiadiem</h3></div>
+						<div><img style="overflow:hidden" src="@Url.Content("../img/anhDLTC/"+image.TenFileAnh)"><p>@image.MoTa</p></div>
+             
+					</div>
+                }
+            </div>
+                  
+				</div>
+			<div class="panel">
+				<div class="panel-header">
+					<span class="ion-ios-bookmarks"></span>&nbsp; Nổi Bật
+				</div>
+				<div class="panel-body">
+				@foreach(var item in ViewBag.chitiet)
+				{
+					<p><a style="font-weight:bold">@item.Tendiadiem</a>: @item.MoTa</p>
+				}
+			</div>
+			</div>
+			<div class="panel">
+				<div class="panel-header">
+					<span class="ion-map"></span>&nbsp; Location
+				</div>
+				<div class="panel-body">
+					<div class="col-1">
+						<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15788.424139256455!2d115.283967!3d-8.391231!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x165ad32430c70f14!2sElephant+Safari+Park+Lodge+Bali!5e0!3m2!1sen!2sid!4v1524497165802" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+					</div>
+					<div class="col-2">
+						<h3>Transportation & Venue Info</h3>
+						<p>Hotel pickup</p>
+						<p>Pickup and drop-off are available within Nusa Dua, Kuta, Seminyak, Sanur and Ubud areas only.</p>
+					</div>
+				</div>
+			</div>
+    </div>
+</section>

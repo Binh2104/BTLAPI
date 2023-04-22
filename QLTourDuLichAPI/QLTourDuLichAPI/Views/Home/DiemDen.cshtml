@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "DiemDen";
+    Layout = "~/Views/Shared/_LayoutDiemDen.cshtml";
+}
+@model X.PagedList.IPagedList<Tour>
+@using X.PagedList.Mvc.Core
+
+<section class="section section-single">
+	<div class="container-fluid">
+		<div class="single-head">
+			<div class="col">
+				<img src="../img/icon/destination.png">
+				<h3>TÌM ĐIỂM ĐẾN CỦA BẠN NGAY BÂY GIỜ !</h3>
+				<p>Sau đây là danh sách các điểm đến có sẵn với giá, vui lòng chọn theo ý muốn</p>
+			</div>
+			<div class="col-form">
+				<form method="POST">
+				</form>
+			</div>
+		</div>
+        <div class="single-body">
+            @foreach (var item in Model)
+            {
+                @await Html.PartialAsync("_PartialTour", item)
+            }
+		</div>
+	</div>
+</section>
+<ul class="pagination">
+	@Html.PagedListPager(Model, page=>Url.Action("DiemDen", new{page=page}))
+</ul>

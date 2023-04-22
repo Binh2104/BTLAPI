@@ -1,0 +1,220 @@
+﻿@{
+	ViewData["Title"] = "TrangChu";
+	Layout = "~/Views/Shared/_LayoutTravel.cshtml";
+}
+
+<!-- Section Header -->
+<section class="section-header">
+	<div class="section-header-image">
+		<img src="../img/header.jpg" alt="Header">
+	</div>
+	<div class="container">
+		<div class="section-header-inner">
+			<div class="section-header-title">
+				<h3 class="title">NGHỆ THUẬT <br> VĨ ĐẠI <br>CỦA <br>VIỆT NAM</h3>
+				<p>Khám phá vẻ đẹp của Việt Nam <br> Bạn chưa từng gặp trước đây</p>
+				<a href="" class="btn btn-round btn-orange">Xem kỳ nghỉ của chúng tôi</a>
+			</div>
+			<div class="section-header-title-xs">
+				<h3 class="title">NGHỆ THUẬT VĨ ĐẠI CỦA VIỆT NAM</h3>
+				<p>Khám phá vẻ đẹp của Việt Nam <br> Bạn chưa từng gặp trước đây</p>
+				<a href="" class="btn btn-round btn-orange">See Our Vacation</a>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- Section About -->
+
+<section class="section section-about">
+	<div class="about-head slides">
+		<h3>VietNam Travel Time</h3>
+		<p>
+			<b>VieVel</b> là viết tắt của <b>VietNam Travel Time</b> là một trang web nhằm mục đích giới thiệu sự quyến rũ của vẻ đẹp của Việt Nam bắt đầu từ Du lịch và Văn hóa. Không chỉ là phương tiện để giới thiệu, <b>VieVel</b> cũng cung cấp các dịch vụ đặt vé khác nhau, từ vé tham quan và chỗ ở quanh Việt Nam
+		</p>
+	</div>
+	<div class="about-body">
+		<div class="row slides">
+			<div class="col">
+				<img src="../img/About/035-trekking.png">
+				<h2>CUỘC PHIÊU LƯU</h2>
+				<p>Có được trải nghiệm phiêu lưu mà bạn chưa từng cảm nhận trước đây chỉ có ở Việt Nam</p>
+			</div>
+			<div class="col">
+				<img src="../img/About/028-book.png">
+				<h2>HƯỚNG DẪN</h2>
+				<p>Chúng tôi cung cấp thông tin - thông tin về Việt Nam bắt đầu từ các sự kiện và điểm đến tốt nhất</p>
+			</div>
+			<div class="col">
+				<img src="../img/About/024-tent.png">
+				<h2>NƠI Ở</h2>
+				<p>Bạn không cần phải lo lắng về nơi ở vì chúng tôi cung cấp vé khách sạn tốt nhất</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- Section Explore -->
+
+<section class="section-explore">
+	<div class="texture-handler-top"></div>
+	<div class="overlay">
+		<div class="caption">
+			<h2>ENJOY BEUTY & friendliness OF</h2> <br>
+			<img src="../img/VietNam_IsLand.png" alt="Bali Island">
+		</div>
+	</div>
+	<div class="texture-handler-bottom"></div>
+</section>
+
+<!-- Section Discover -->
+
+<section class="section section-discover" id="discover">
+	<div class="section-head">
+		<div class="section-line"></div>
+		<h3 class="section-title">KHÁM PHÁ VIỆT NAM</h3>
+		<p class="section-subtitle">Đó là một di sản văn hóa và thiên nhiên tuyệt đẹp vẫn còn được bảo tồn ở Bali mà bạn có thể khám phá</p>
+	</div>
+	<div class="section-discover-body slides">
+		<div class="col">
+			<a  asp-controller="Home" asp-action="DiemDen">
+				<img src="../img/selfie.jpg" alt="Destination">
+				<div class="caption">
+					<p>Điểm Đến</p>
+					<div class="line"></div>
+					<div class="caption-text">
+						<p>Ghé thăm những địa điểm du lịch mà bạn chưa từng gặp trước đây</p>
+					</div>
+				</div>
+			</a>
+		</div>
+		<div class="col">
+			<a href="culture.html">
+				<img src="../img/culture.jpg">
+				<div class="caption" alt="Culture">
+					<p>CULTURE</p>
+					<div class="line"></div>
+					<div class="caption-text">
+						<p>Selain pemandangan yang indah bali juga memiliki budaya yang mengesankan</p>
+					</div>
+				</div>
+			</a>
+		</div>
+		<div class="col">
+			<a asp-controller="Home" asp-action="TinTuc>
+				<img src="../img/event.jpg">
+				<div class="caption" alt="Event">
+					<p>EVENT</p>
+					<div class="line"></div>
+					<div class="caption-text">
+						<p>Ikuti dan ketahui event - event menarik yang berlangsung di Bali</p>
+					</div>
+				</div>
+			</a>
+		</div>
+		<div class="col" >
+			<a asp-controller="Home" asp-action="KhachSan">
+				<img src="../img/stay.jpg">
+				<div class="caption" alt="Stay">
+					<p>WHERE TO STAY</p>
+					<div class="line"></div>
+					<div class="caption-text">
+						<p>Lựa Chọn Hoàn Hảo cho mọi Chuyến Du Lịch</p>
+					</div>
+				</div>
+			</a>
+		</div>
+	</div>
+</section>
+
+<!-- Gallery Bali -->
+
+<section class="section section-gallery">
+	<div class="section-head">
+		<div class="section-line"></div>
+		<h3 class="section-title">THƯ VIỆN CỦA CHÚNG TÔI</h3>
+		<p class="section-subtitle">Một bức chân dung tuyệt đẹp về cảnh quan của Việt Nam mà bạn không thể bỏ lỡ</p>
+	</div>
+	<div class="section-gallery-body">
+		<div class="row">
+			<div class="col-video">
+				<video controls>
+					<source src="../img/VietNamvideo.mp4" type="video/mp4">
+					Your browser does not support HTML5 video.
+				</video>
+			</div>
+			<div class="col-image">
+				<div class="row">
+					<div class="col" onclick="window.location.href='gallery.html'">
+						<img src="../img/Gallery/27573391_1831430933557419_8533318736831053824_n.jpg">
+						<div class="overlay">
+							<span class="ion-search"></span>
+						</div>
+					</div>
+					<div class="col" onclick="window.location.href='gallery.html'">
+						<img src="../img/Gallery/26870845_1740142096076715_486825953067008000_n.jpg">
+						<div class="overlay">
+							<span class="ion-search"></span>
+						</div>
+					</div>
+					<div class="col" onclick="window.location.href='gallery.html'">
+						<img src="../img/Gallery/27880266_1798970387070331_5621832064107020288_n.jpg">
+						<div class="overlay">
+							<span class="ion-search"></span>
+						</div>
+					</div>
+					<div class="col" onclick="window.location.href='gallery.html'">
+						<img src="../img/Gallery/29415561_163922580940067_2417069708558729216_n.jpg">
+						<div class="overlay">
+							<span class="ion-search"></span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<!-- Section Tours -->
+
+<section class="section section-tour">
+	<div class="section-head">
+		<div class="section-line"></div>
+		<h3 class="section-title">5 TOUR ĐƯỢC ĐỀ XUẤT</h3>
+		<p class="section-subtitle">Các tour du lịch tốt nhất dựa trên mức độ quan tâm của khách du lịch đến VIỆT NAM và mức độ phổ biến của các tour du lịch này</p>
+	</div>
+	<div class="section-tour-body">
+		<div class="row">
+			@foreach(var item in Model)
+			{
+				<div class="col-1 slides">
+					<img src="@Url.Content("../img/anhdaidien/"+item.Anh)">
+				<div class="overlay">
+					<div class="caption">
+						<div class="caption-text">
+							<p>@item.TenTour</p>
+								@for (int i = 0; i < @item.XepHangTour; i++)
+								{
+									<span class="ion-ios-star checked"></span>
+								}
+								@for (int i = 0; i < 5 - @item.XepHangTour; i++)
+								{
+									<span class="ion-ios-star"></span>
+								}
+							<br>
+							<span class="ion-bag big"></span> &nbsp;
+								<b>@item.GiaCho.ToString("#,##0") VND/người</b>
+								<a asp-controller="Home" asp-action="ChiTietTour" asp-route-matour="@item.MaTour"  class="btn btn-orange btn-round right">Xem Chi Tiết</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			}
+			
+		</div>
+	</div>
+</section>
+
+<!-- Section Newsletter -->
+
+

@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewData["Title"] = "ThuVien";
+    Layout = "~/Views/Shared/_LayoutThuVien.cshtml";
+}
+
+@model X.PagedList.IPagedList<DiemThamQuan>
+@using X.PagedList.Mvc.Core
+<section class="section section-gallery">
+		<div class="container-fluid">
+			<div class="single-head">
+				<div class="col">
+					<img src="../img/icon/013-photo.png">
+					<h3>PHÒNG TRƯNG BÀY ĐẸP CỦA Việt Nam</h3>
+					<p>Ghi lại những khoảnh khắc đẹp với sắc thái ở Việt Nam. Dưới đây là những bức ảnh chân dung được chụp bởi khách du lịch</p>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+
+@foreach (var item in Model)
+{	<div class="column">
+	<a href="@Url.Content("../img/anhDLTC/"+item.TenFileAnh)" class="swipebox" title="Image by Instagram Explore Bali">
+		<div class="wrapper">
+			<div class="zoom-effect">
+				<div class="image">
+					<img src="@Url.Content("../img/anhDLTC/"+item.TenFileAnh)">
+					<div class="overlay">
+						<span class="ion-search"></span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</a>
+	</div>
+}
+	</div>
+</section>
+<ul class="pagination">
+	@Html.PagedListPager(Model, page=>Url.Action("ThuVien", new{page=page}))
+</ul>
+
+

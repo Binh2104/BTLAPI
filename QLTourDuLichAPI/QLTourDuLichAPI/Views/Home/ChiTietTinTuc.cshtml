@@ -1,0 +1,161 @@
+﻿@using X.PagedList.Mvc.Core
+@model QLTourDuLichAPI.Models.TinTuc
+@*@model X.PagedList.IPagedList<TinTuc>*@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Bali Spirit Festival - Bali Travel Time</title>
+	<link rel="icon" type="image/png" href="../img/icon/bavel.png">
+
+	<!-- Meta Description -->
+	<meta name="description" content="Bali Travel Time">
+	<meta name="keywords" content="Travel, Bali, Tourism">
+	<meta name="robots" content="index, nofollow">
+	<meta name="web_author" content="Yogi Prasertawan">
+	<meta name="language" content="Indonesian">
+
+	<!-- Import Icon -->
+	<link rel="stylesheet" type="text/css" href="../css/ionicons.min.css">
+
+	<!-- Import Style -->
+	<link rel="stylesheet" type="text/css" href="../css/main.css">
+	<link rel="stylesheet" type="text/css" href="../css/swipe.min.css">
+
+</head>
+<body>
+
+	<!-- Navbar -->
+	@await Html.PartialAsync("_PartialHeader")
+
+	<!-- Sidebar -->
+
+	<section class="section section-archive">
+		<div class="container" style="margin-top: 80px;">
+			<div class="row">
+				<div class="content">
+					<div class="content-single">
+						<div class="content-single-title">
+							@foreach (var item in ViewBag.tinTuc)
+							{
+								<h3>@item.MoTa</h3>
+							}
+							@foreach (var image in ViewBag.anhTin)
+							{
+								<img src="@Url.Content("../img/AnhTinTuc/"+image.TenFileAnh)" class="image">
+							}
+							
+						</div>
+						<div class="content-single-body">
+							@foreach (var item in ViewBag.tinTuc)
+							{
+								@item.NoiDung
+							}
+
+							<div class="label">
+								<a href=""><span class="ion-pricetags"></span> &nbsp; News</a>
+								<a href=""><span class="ion-android-share-alt"></span> &nbsp; Share</a>
+								<a href=""><span class="ion-heart"></span> &nbsp; Like</a>
+							</div>
+						</div>
+						<div class="content-single-footer">
+							<h3 class="text-center">Artikel Terkait</h3>
+							<div class="terkait">
+								<div class="col">
+									<img src="../img/AnhTinTuc/anhtt1.jpg"> <br><br>
+									<a href="#">
+										<h3>
+											Thống nhất lựa chọn hình ảnh...
+										</h3>
+									</a>
+								</div>
+								<div class="col">
+									<img src="../img/AnhTinTuc/anhtt2.jpg"> <br><br>
+									<a href="#">
+										<h3>
+											Trưng bày các giá trị, sản...
+										</h3>
+									</a>
+								</div>
+								<div class="col">
+									<div class="col-title">
+										<img src="../img/AnhTinTuc/anhtt3.jpg">
+									</div>
+									<div class="col-body">
+										<a href="#">
+											<h3>
+												Phú Quốc Hòn đảo có thiên...
+											</h3>
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="aside">
+					<div class="row">
+						<div class="aside-content">
+							<form method="POST">
+								<div class="content-input">
+									<input type="text" name="cari" class="form-control" placeholder="Search ...">
+								</div>
+								<div class="content-btn">
+									<button type="submit" class="btn-search"><i class="ion-search"></i></button>
+								</div>
+							</form>
+						</div>
+						<div class="aside-content">
+							<div class="content-title">
+								<b>Nổi Bật</b>
+							</div>
+							<div class="content-body">
+								<ul style="padding: 0;list-style: none;">
+
+									@foreach (var item in ViewBag.Tint)
+									{
+										<li><a asp-controller="Home" asp-action="ChiTietTinTuc" asp-route-maTin="@item.MaTin">@item.MoTa</a></li>
+									}
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<script type="text/javascript" src="../js/jquery.js"></script>
+	<script type="text/javascript">
+		jQuery(document).ready(function () {
+			/* Sidebar Trigger */
+			$('.sidebar-toggle').click(function (e) {
+				e.preventDefault();
+				$('.sidebar').addClass('active');
+				$('.sidebar-overlay').css('visibility', 'visible');
+			});
+			$('.sidebar-overlay, .close').click(function (e) {
+				e.preventDefault();
+				$('.sidebar').removeClass('active');
+				$('.sidebar-overlay').css('visibility', 'hidden');
+			});
+			$('#openLogin').click(function () {
+				$('.login-overlay').fadeIn();
+				$('.login-form').css({
+					visibility: 'visible',
+					opacity: '1'
+				});
+			});
+			$('.close').click(function () {
+				$('.login-overlay').fadeOut(1000);
+				$('.login-form').css({
+					visibility: 'hidden',
+					opacity: '0'
+				});
+			});
+		});
+	</script>
+</body>
+</html>
+

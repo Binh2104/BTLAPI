@@ -1,0 +1,157 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = QLTourDuLichAPI
+build_property.RootNamespace = QLTourDuLichAPI
+build_property.ProjectDir = C:\Users\Binh\Desktop\API code\BTLApi\QLTourDuLichAPI\QLTourDuLichAPI\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Binh\Desktop\API code\BTLApi\QLTourDuLichAPI\QLTourDuLichAPI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Areas/Admin/Views/HomeAdmin/danhsachkhachhang.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXGRhbmhzYWNoa2hhY2hoYW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Areas/Admin/Views/HomeAdmin/danhsachnhansu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXGRhbmhzYWNobmhhbnN1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Areas/Admin/Views/HomeAdmin/danhsachtintuc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXGRhbmhzYWNodGludHVjLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Areas/Admin/Views/HomeAdmin/DSDTQuan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERTRFRRdWFuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Areas/Admin/Views/HomeAdmin/DSTour.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXERTVG91ci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Areas/Admin/Views/HomeAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Areas/Admin/Views/HomeAdmin/taikhoan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXHRhaWtob2FuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Areas/Admin/Views/HomeAdmin/ThemDDchoTour.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1ERGNob1RvdXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Areas/Admin/Views/HomeAdmin/ThemKSchoTour.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXFRoZW1LU2Nob1RvdXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Access/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Access/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzXFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Home/ChiTietKhachSan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGlUaWV0S2hhY2hTYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Home/ChiTietTinTuc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGlUaWV0VGluVHVjLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Home/ChiTietTour.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGlUaWV0VG91ci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Home/DiemDen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEaWVtRGVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Home/KhachSan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLaGFjaFNhbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Home/ThuVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaHVWaWVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Home/TinTuc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaW5UdWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Shared/_LayoutChiTietTour.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDaGlUaWV0VG91ci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Shared/_LayoutDiemDen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXREaWVtRGVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Shared/_LayoutKhachSan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRLaGFjaFNhbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Shared/_LayoutThuVien.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRUaHVWaWVuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Shared/_LayoutTinTuc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRUaW5UdWMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Shared/_LayoutTravel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRUcmF2ZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Shared/_PartialFooter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Shared/_PartialHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsSGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Shared/_PartialKhachSan.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsS2hhY2hTYW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Shared/_PartialTour.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsVG91ci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Binh/Desktop/API code/BTLApi/QLTourDuLichAPI/QLTourDuLichAPI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

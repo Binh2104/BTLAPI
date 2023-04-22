@@ -1,0 +1,26 @@
+﻿@model KhachSan
+<div class="col">
+				<img src="@Url.Content("../img/KhachSan/"+Model.TenFileAnh)">
+				<div class="overlay">
+					<div class="caption">
+						<div class="caption-text">
+							<p>@Model.TenKs</p>
+				@for(int i=0; i< Model.XepHangKs; i++)
+				{
+					<span class="ion-ios-star checked"></span>
+				}
+				@for(int i=0; i<5- @Model.XepHangKs; i++)
+				{
+					<span class="ion-ios-star"></span>
+				}
+				<br/>
+				<span class="ion-bag big"></span> &nbsp;
+				<b>@Model.DiaChi</b> &nbsp; &nbsp;
+				<span class="ion-ios-telephone "></span> &nbsp;
+				<b>@Model.Sdt</b> 
+				<br/>
+				<a asp-controller="Home" asp-action="ChiTietTour" asp-route-matour="@Model.MaKs" class="btn btn-orange btn-round">Liên Hệ Trực Tiếp </a>
+						</div>
+					</div>
+				</div>
+</div>

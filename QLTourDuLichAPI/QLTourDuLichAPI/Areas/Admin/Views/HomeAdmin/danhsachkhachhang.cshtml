@@ -1,0 +1,104 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "danhsachkhachhang";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Danh Sách Khách Hàng</h1>
+<div class="content-wrapper">
+    <div class="page-header">
+        <h3 class="page-title"> Khách Hàng </h3>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a asp-controller="HomeAdmin" asp-action="Index">Trang chủ</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Khách Hàng</li>
+            </ol>
+        </nav>
+    </div>
+    <div class="col-lg-12 stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Danh sách Khách Hàng</h4>
+                <table class="table table-bordered">
+                    <thead>
+                        <tr class="table-info">
+                            <th>Mã khách Hàng</th>
+                            <th>Tên Khách Hàng</th>
+                            <th>Giới tính</th>
+                            <th>Số điện thoại</th>
+                            <th>Địa chỉ</th>
+                            <th>UserName</th>
+                            <th>Email</th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody id="tbody-khachhang">
+                    </tbody>
+                </table>
+                <br />
+                <div class="text-center">Page <span id="page-number">1</span></div>
+                <div id="pagination_khachhang"></div>
+            </div>
+        </div>
+    </div>
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Khách Hàng</h4>
+                <p class="card-description" id="card-action"></p>
+                <form class="forms-sample" id="form-khachhang">
+                    <div class="form-group">
+                        <label for="MaKH">Mã Khách Hàng</label>
+                        <input type="text" class="form-control" id="MaKH" placeholder="Mã Khách Hàng">
+                    </div>
+                    <div class="form-group">
+                        <label for="TenKh">Tên Khách Hàng</label>
+                        <input type="text" class="form-control" id="TenKh" placeholder="Tên Khách Hàng">
+                    </div>
+                    <div class="form-group">
+                        <label for="gioitinh">Giới tính</label>
+                        <select class="form-control form-control-lg" id="gioitinh">
+                            <option value="Nam">Nam</option>
+                            <option value="Nữ">Nữ</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="sdt">Số điện thoại</label>
+                        <input type="text" class="form-control" id="sdt" placeholder="Số điện thoại">
+                    </div>
+                    <div class="form-group">
+                        <label for="diachi">Địa chỉ</label>
+                        <input type="text" class="form-control" id="diachi" placeholder="Địa chỉ">
+                    </div>
+                    <div class="form-group">
+                        <label for="UserName">UserName</label>
+                        <input type="text" class="form-control" id="UserName" placeholder="UserName">
+                    </div>
+                    <div class="form-group">
+                        <label for="UserName">Email</label>
+                        <input type="text" class="form-control" id="Email" placeholder="Email">
+                    </div>
+
+                    <button type="button" class="btn btn-gradient-danger btn-icon-text" onclick="InsertKH()">
+                        <i class="mdi mdi-upload btn-icon-prepend"></i>Thêm
+                    </button>
+                    <button type="button" class="btn btn-gradient-dark btn-icon-text" onclick="UpdateKH()">
+                        Sửa <i class="mdi mdi-file-check btn-icon-append"></i>
+                    </button>
+                    <button type="button" class="btn btn-gradient-warning btn-icon-text" onclick="resetInput()">
+                        <i class="mdi mdi-reload btn-icon-prepend"></i> Cancel
+                    </button>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="~/admin/layoutdmin/assets/js/KhachHang.js"></script>
+
+
+
+
+

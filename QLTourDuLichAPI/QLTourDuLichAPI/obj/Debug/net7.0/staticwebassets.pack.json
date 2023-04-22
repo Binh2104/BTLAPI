@@ -1,0 +1,2861 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\PSD\\Purple_dashboard_free.psd",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\PSD\\Purple_dashboard_free.psd"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\Thank.png",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\Thank.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\nhom10.png",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\nhom10.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\js\\KhachHang.js",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\js\\KhachHang.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\js\\ddt.js",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\js\\ddt.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\js\\diemthamquan.js",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\js\\diemthamquan.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\js\\kst.js",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\js\\kst.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\js\\nhansu.js",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\js\\nhansu.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\js\\taikhoan.js",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\js\\taikhoan.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\js\\tintuc.js",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\js\\tintuc.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\js\\tour.js",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\js\\tour.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\binh.css",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\binh.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\gulp-tasks\\inject.js",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\gulp-tasks\\inject.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\gulp-tasks\\serve.js",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\gulp-tasks\\serve.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\gulp-tasks\\vendors.js",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\gulp-tasks\\vendors.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\pages\\samples\\blank-page.html",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\pages\\samples\\blank-page.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\pages\\samples\\error-404.html",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\pages\\samples\\error-404.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\pages\\samples\\error-500.html",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\pages\\samples\\error-500.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\admin\\layoutdmin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\admin\\layoutdmin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\css\\css1.css",
+      "PackagePath": "staticwebassets\\css\\css1.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\css\\css2.css",
+      "PackagePath": "staticwebassets\\css\\css2.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\css\\swipebox.min.css",
+      "PackagePath": "staticwebassets\\css\\swipebox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\css\\swiper.css",
+      "PackagePath": "staticwebassets\\css\\swiper.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\fonts\\Lobster 1.4.otf",
+      "PackagePath": "staticwebassets\\fonts\\Lobster 1.4.otf"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\fonts\\Montserrat-ExtraLight.otf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-ExtraLight.otf"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\fonts\\Montserrat-Light.otf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Light.otf"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\fonts\\Montserrat-Medium.otf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Medium.otf"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\fonts\\Montserrat-Regular.otf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-Regular.otf"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\fonts\\Montserrat-SemiBold.otf",
+      "PackagePath": "staticwebassets\\fonts\\Montserrat-SemiBold.otf"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\fonts\\Oraqle Script.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Oraqle Script.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\fonts\\Pacifico.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Pacifico.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\fonts\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\.DS_Store",
+      "PackagePath": "staticwebassets\\img\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\About\\024-tent.png",
+      "PackagePath": "staticwebassets\\img\\About\\024-tent.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\About\\028-book.png",
+      "PackagePath": "staticwebassets\\img\\About\\028-book.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\About\\035-trekking.png",
+      "PackagePath": "staticwebassets\\img\\About\\035-trekking.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\AnhTinTuc\\anhMT01.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhTinTuc\\anhMT01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\AnhTinTuc\\anhMT02.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhTinTuc\\anhMT02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\AnhTinTuc\\anhMT03.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhTinTuc\\anhMT03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\AnhTinTuc\\anhMT04.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhTinTuc\\anhMT04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\AnhTinTuc\\anhMT05.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhTinTuc\\anhMT05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\AnhTinTuc\\anhtt1.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhTinTuc\\anhtt1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\AnhTinTuc\\anhtt10.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhTinTuc\\anhtt10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\AnhTinTuc\\anhtt11.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhTinTuc\\anhtt11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\AnhTinTuc\\anhtt2.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhTinTuc\\anhtt2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\AnhTinTuc\\anhtt3.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhTinTuc\\anhtt3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\AnhTinTuc\\anhtt4.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhTinTuc\\anhtt4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\AnhTinTuc\\anhtt5.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhTinTuc\\anhtt5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\AnhTinTuc\\anhtt6.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhTinTuc\\anhtt6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\AnhTinTuc\\anhtt7.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhTinTuc\\anhtt7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\AnhTinTuc\\anhtt8.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhTinTuc\\anhtt8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\AnhTinTuc\\anhtt9.jpg",
+      "PackagePath": "staticwebassets\\img\\AnhTinTuc\\anhtt9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\Gallery\\22427484_369553130149066_8205756025140150272_n.jpg",
+      "PackagePath": "staticwebassets\\img\\Gallery\\22427484_369553130149066_8205756025140150272_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\Gallery\\22709112_126847261368839_3816787601726111744_n.jpg",
+      "PackagePath": "staticwebassets\\img\\Gallery\\22709112_126847261368839_3816787601726111744_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\Gallery\\23823687_523669887982025_4768024408549752832_n.jpg",
+      "PackagePath": "staticwebassets\\img\\Gallery\\23823687_523669887982025_4768024408549752832_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\Gallery\\24175228_913344825485214_1747928750328119296_n.jpg",
+      "PackagePath": "staticwebassets\\img\\Gallery\\24175228_913344825485214_1747928750328119296_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\Gallery\\25015541_140076426774487_5369120968708980736_n.jpg",
+      "PackagePath": "staticwebassets\\img\\Gallery\\25015541_140076426774487_5369120968708980736_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\Gallery\\25037337_1825448214419842_48033548438863872_n.jpg",
+      "PackagePath": "staticwebassets\\img\\Gallery\\25037337_1825448214419842_48033548438863872_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\Gallery\\26870845_1740142096076715_486825953067008000_n.jpg",
+      "PackagePath": "staticwebassets\\img\\Gallery\\26870845_1740142096076715_486825953067008000_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\Gallery\\27573391_1831430933557419_8533318736831053824_n.jpg",
+      "PackagePath": "staticwebassets\\img\\Gallery\\27573391_1831430933557419_8533318736831053824_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\Gallery\\27579201_336419430210459_5486542844845883392_n.jpg",
+      "PackagePath": "staticwebassets\\img\\Gallery\\27579201_336419430210459_5486542844845883392_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\Gallery\\27880266_1798970387070331_5621832064107020288_n.jpg",
+      "PackagePath": "staticwebassets\\img\\Gallery\\27880266_1798970387070331_5621832064107020288_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\Gallery\\28152684_391644334580548_5650556247036919808_n.jpg",
+      "PackagePath": "staticwebassets\\img\\Gallery\\28152684_391644334580548_5650556247036919808_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\Gallery\\28430212_200924710667049_7004971581080338432_n.jpg",
+      "PackagePath": "staticwebassets\\img\\Gallery\\28430212_200924710667049_7004971581080338432_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\Gallery\\28434752_386907991781375_9167553190177013760_n.jpg",
+      "PackagePath": "staticwebassets\\img\\Gallery\\28434752_386907991781375_9167553190177013760_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\Gallery\\28753844_228354697736345_7723101941311471616_n.jpg",
+      "PackagePath": "staticwebassets\\img\\Gallery\\28753844_228354697736345_7723101941311471616_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\Gallery\\29087715_1693103334069013_7217753722737131520_n.jpg",
+      "PackagePath": "staticwebassets\\img\\Gallery\\29087715_1693103334069013_7217753722737131520_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\Gallery\\29089828_175705203229064_354079736697192448_n.jpg",
+      "PackagePath": "staticwebassets\\img\\Gallery\\29089828_175705203229064_354079736697192448_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\Gallery\\29415561_163922580940067_2417069708558729216_n.jpg",
+      "PackagePath": "staticwebassets\\img\\Gallery\\29415561_163922580940067_2417069708558729216_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\Gallery\\anh1.jpg",
+      "PackagePath": "staticwebassets\\img\\Gallery\\anh1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\Gallery\\anh2.jpg",
+      "PackagePath": "staticwebassets\\img\\Gallery\\anh2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\Gallery\\anh3.jpg",
+      "PackagePath": "staticwebassets\\img\\Gallery\\anh3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\Gallery\\anh4.jpg",
+      "PackagePath": "staticwebassets\\img\\Gallery\\anh4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\KhachSan\\KsDaNang.jpg",
+      "PackagePath": "staticwebassets\\img\\KhachSan\\KsDaNang.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\KhachSan\\ksCanTho.jpg",
+      "PackagePath": "staticwebassets\\img\\KhachSan\\ksCanTho.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\KhachSan\\ksCaoBang.jpg",
+      "PackagePath": "staticwebassets\\img\\KhachSan\\ksCaoBang.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\KhachSan\\ksDienBien.jpg",
+      "PackagePath": "staticwebassets\\img\\KhachSan\\ksDienBien.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\KhachSan\\ksHaLong.jpg",
+      "PackagePath": "staticwebassets\\img\\KhachSan\\ksHaLong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\KhachSan\\ksHue.jpg",
+      "PackagePath": "staticwebassets\\img\\KhachSan\\ksHue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\KhachSan\\ksLangSon.jpg",
+      "PackagePath": "staticwebassets\\img\\KhachSan\\ksLangSon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\KhachSan\\ksMocChau.jpg",
+      "PackagePath": "staticwebassets\\img\\KhachSan\\ksMocChau.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\KhachSan\\ksNinhBinh.jpg",
+      "PackagePath": "staticwebassets\\img\\KhachSan\\ksNinhBinh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\KhachSan\\ksSaPa.jpg",
+      "PackagePath": "staticwebassets\\img\\KhachSan\\ksSaPa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\VietNam_IsLand.png",
+      "PackagePath": "staticwebassets\\img\\VietNam_IsLand.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\VietNamvideo.mp4",
+      "PackagePath": "staticwebassets\\img\\VietNamvideo.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\337495919_6082737918458859_2692661163328609017_n.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\337495919_6082737918458859_2692661163328609017_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\337822269_236721942252721_1024632411585272633_n.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\337822269_236721942252721_1024632411585272633_n.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\aichilang.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\aichilang.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\anhMT06.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\anhMT06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\anhMT07.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\anhMT07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\anhMT08.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\anhMT08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\baibiendep.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\baibiendep.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\baibiendep1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\baibiendep1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\baibiendep2.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\baibiendep2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\baidinh.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\baidinh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\baidinh1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\baidinh1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\baidinh2.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\baidinh2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\bandaosontra.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\bandaosontra.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\bandaosontra1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\bandaosontra1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\bantava1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\bantava1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\bantavan.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\bantavan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\bantavan1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\bantavan1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\bantavan2.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\bantavan2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\cat1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\cat1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\cat4.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\cat4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\cat5.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\cat5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\chonnoicairang.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\chonnoicairang.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\chonnoicairang1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\chonnoicairang1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\chonoicairang.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\chonoicairang.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\chonoicairang1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\chonoicairang1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\chonoicairang2.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\chonoicairang2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\deophadin.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\deophadin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\deophadin1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\deophadin1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\deophadin2.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\deophadin2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\dinhphaluong.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\dinhphaluong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\dinhphaluong1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\dinhphaluong1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\dinhphaluong2.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\dinhphaluong2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\dongnguomngao.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\dongnguomngao.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\dongnguomngao1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\dongnguomngao1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\dongnguomngao2.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\dongnguomngao2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\giangua.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\giangua.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\giangua1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\giangua1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\giangua2.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\giangua2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\kinhthanhhue.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\kinhthanhhue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\kinhthanhhue1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\kinhthanhhue1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\kinhthanhhue2.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\kinhthanhhue2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\langvua.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\langvua.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\langvua1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\langvua1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\mocchau.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\mocchau.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\mocchau1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\mocchau1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\mocchau2.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\mocchau2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\ninhbinh1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\ninhbinh1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\ninhbinh2.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\ninhbinh2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\ninhbinh3.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\ninhbinh3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\nuitothi.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\nuitothi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\nuitothi1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\nuitothi1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\paachai.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\paachai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\paachai1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\paachai1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\paachai2.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\paachai2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\sinchai.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\sinchai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\thacbandoc.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\thacbandoc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\thacbandoc1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\thacbandoc1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\thacbandoc2.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\thacbandoc2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\thanhco.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\thanhco.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\thanhnhacmac1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\thanhnhacmac1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\thanhnhamac.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\thanhnhamac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\thanhnhamac1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\thanhnhamac1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\thunglungmuonghoa.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\thunglungmuonghoa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\thunglungmuonghoa1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\thunglungmuonghoa1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\thunglungmuonghoa2.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\thunglungmuonghoa2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\thunglungmuonghoa3.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\thunglungmuonghoa3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\trangan.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\trangan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\trangan1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\trangan1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\trangan2.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\trangan2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\tuanchau.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\tuanchau.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\tuanchau1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\tuanchau1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\tuanchau2.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\tuanchau2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\tuanchau3.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\tuanchau3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\vinhahlong3.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\vinhahlong3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\vinhhalong.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\vinhhalong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\vinhhalong1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\vinhhalong1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\vinhhalong2.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\vinhhalong2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\vinhhalong3.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\vinhhalong3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhDLTC\\vinhhalong4.jpg",
+      "PackagePath": "staticwebassets\\img\\anhDLTC\\vinhhalong4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhdaidien\\SubAES.png",
+      "PackagePath": "staticwebassets\\img\\anhdaidien\\SubAES.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhdaidien\\anhMT01.jpg",
+      "PackagePath": "staticwebassets\\img\\anhdaidien\\anhMT01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhdaidien\\anhMT02.jpg",
+      "PackagePath": "staticwebassets\\img\\anhdaidien\\anhMT02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhdaidien\\anhMT03.jpg",
+      "PackagePath": "staticwebassets\\img\\anhdaidien\\anhMT03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhdaidien\\anhMT04.jpg",
+      "PackagePath": "staticwebassets\\img\\anhdaidien\\anhMT04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhdaidien\\anhMT05.jpg",
+      "PackagePath": "staticwebassets\\img\\anhdaidien\\anhMT05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhdaidien\\anhMT06.jpg",
+      "PackagePath": "staticwebassets\\img\\anhdaidien\\anhMT06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhdaidien\\anhMT07.jpg",
+      "PackagePath": "staticwebassets\\img\\anhdaidien\\anhMT07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhdaidien\\anhMT08.jpg",
+      "PackagePath": "staticwebassets\\img\\anhdaidien\\anhMT08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhdaidien\\anhMT09.jpg",
+      "PackagePath": "staticwebassets\\img\\anhdaidien\\anhMT09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhdaidien\\anhMT10.jpg",
+      "PackagePath": "staticwebassets\\img\\anhdaidien\\anhMT10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhdaidien\\baibiendep1.jpg",
+      "PackagePath": "staticwebassets\\img\\anhdaidien\\baibiendep1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhdaidien\\deophadin.jpg",
+      "PackagePath": "staticwebassets\\img\\anhdaidien\\deophadin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\anhdaidien\\sinchai.jpg",
+      "PackagePath": "staticwebassets\\img\\anhdaidien\\sinchai.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\bali-bird-park.jpg",
+      "PackagePath": "staticwebassets\\img\\bali-bird-park.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\bali-island.png",
+      "PackagePath": "staticwebassets\\img\\bali-island.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\bg-3.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\bg-culture.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-culture.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\bg-destination.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-destination.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\bg-event.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-event.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\bg-gallery.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-gallery.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\bg-news.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-news.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\culture.jpg",
+      "PackagePath": "staticwebassets\\img\\culture.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\culture\\drama_gong.jpg",
+      "PackagePath": "staticwebassets\\img\\culture\\drama_gong.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\culture\\ogoh.jpg",
+      "PackagePath": "staticwebassets\\img\\culture\\ogoh.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\elephant.jpg",
+      "PackagePath": "staticwebassets\\img\\elephant.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\event.jpg",
+      "PackagePath": "staticwebassets\\img\\event.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\events\\balispirit.jpg",
+      "PackagePath": "staticwebassets\\img\\events\\balispirit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\events\\event.jpg",
+      "PackagePath": "staticwebassets\\img\\events\\event.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\gunung.jpg",
+      "PackagePath": "staticwebassets\\img\\gunung.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\header.jpg",
+      "PackagePath": "staticwebassets\\img\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\header1.jpg",
+      "PackagePath": "staticwebassets\\img\\header1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\header4.jpg",
+      "PackagePath": "staticwebassets\\img\\header4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\icon\\013-photo.png",
+      "PackagePath": "staticwebassets\\img\\icon\\013-photo.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\icon\\020-hotel.png",
+      "PackagePath": "staticwebassets\\img\\icon\\020-hotel.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\icon\\bavel.png",
+      "PackagePath": "staticwebassets\\img\\icon\\bavel.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\icon\\destination.png",
+      "PackagePath": "staticwebassets\\img\\icon\\destination.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\icons.png",
+      "PackagePath": "staticwebassets\\img\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\icons.svg",
+      "PackagePath": "staticwebassets\\img\\icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\loader.gif",
+      "PackagePath": "staticwebassets\\img\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\lotus.png",
+      "PackagePath": "staticwebassets\\img\\lotus.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\museum-bali.jpg",
+      "PackagePath": "staticwebassets\\img\\museum-bali.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\news\\023053600_1523534851-IMG-20180412-WA0034.jpg",
+      "PackagePath": "staticwebassets\\img\\news\\023053600_1523534851-IMG-20180412-WA0034.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\news\\038321800_1523380452-IMG-20180410-WA0031.jpg",
+      "PackagePath": "staticwebassets\\img\\news\\038321800_1523380452-IMG-20180410-WA0031.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\news\\039443100_1523457714-IMG-20180411-WA0038.jpg",
+      "PackagePath": "staticwebassets\\img\\news\\039443100_1523457714-IMG-20180411-WA0038.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\news\\gunung.jpg",
+      "PackagePath": "staticwebassets\\img\\news\\gunung.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\news\\tari.jpg",
+      "PackagePath": "staticwebassets\\img\\news\\tari.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\pantai-kuta.jpg",
+      "PackagePath": "staticwebassets\\img\\pantai-kuta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\quote-1.svg",
+      "PackagePath": "staticwebassets\\img\\quote-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\quote-2.svg",
+      "PackagePath": "staticwebassets\\img\\quote-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\sanur.jpg",
+      "PackagePath": "staticwebassets\\img\\sanur.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\selfie.jpg",
+      "PackagePath": "staticwebassets\\img\\selfie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\stay.jpg",
+      "PackagePath": "staticwebassets\\img\\stay.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\stay\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\stay\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\stay\\MaxOneHotels.com.jpg",
+      "PackagePath": "staticwebassets\\img\\stay\\MaxOneHotels.com.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\stay\\architecture-bar.jpg",
+      "PackagePath": "staticwebassets\\img\\stay\\architecture-bar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\stay\\cafe-chair-dining-51310.jpg",
+      "PackagePath": "staticwebassets\\img\\stay\\cafe-chair-dining-51310.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\stay\\fish-pond.jpg",
+      "PackagePath": "staticwebassets\\img\\stay\\fish-pond.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\stay\\header-bintang-kuta-hotel-bali-04.jpg",
+      "PackagePath": "staticwebassets\\img\\stay\\header-bintang-kuta-hotel-bali-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\stay\\mercure-bali-nusa-dua.jpg",
+      "PackagePath": "staticwebassets\\img\\stay\\mercure-bali-nusa-dua.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\stay\\pertiwi-suite-slide1.jpg",
+      "PackagePath": "staticwebassets\\img\\stay\\pertiwi-suite-slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\tanah-lot.jpeg",
+      "PackagePath": "staticwebassets\\img\\tanah-lot.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\tari.jpg",
+      "PackagePath": "staticwebassets\\img\\tari.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\temple.jpg",
+      "PackagePath": "staticwebassets\\img\\temple.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\texture-bottom.png",
+      "PackagePath": "staticwebassets\\img\\texture-bottom.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\texture-top.png",
+      "PackagePath": "staticwebassets\\img\\texture-top.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\img\\uluwatu.jpg",
+      "PackagePath": "staticwebassets\\img\\uluwatu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\js\\ios-orientationchange-fix.js",
+      "PackagePath": "staticwebassets\\js\\ios-orientationchange-fix.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\js\\jquery-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\js\\jquery.swipebox.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.swipebox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\js\\smoothslides-2.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\smoothslides-2.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\js\\swipe.js",
+      "PackagePath": "staticwebassets\\js\\swipe.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\PSD\\Purple_dashboard_free.psd",
+      "PackagePath": "staticwebassets\\layoutdmin\\PSD\\Purple_dashboard_free.psd"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\Thank.png",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\Thank.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\nhom10.png",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\nhom10.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\js\\diemthamquan.js",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\js\\diemthamquan.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\layoutdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\binh.css",
+      "PackagePath": "staticwebassets\\layoutdmin\\binh.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\gulp-tasks\\inject.js",
+      "PackagePath": "staticwebassets\\layoutdmin\\gulp-tasks\\inject.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\gulp-tasks\\serve.js",
+      "PackagePath": "staticwebassets\\layoutdmin\\gulp-tasks\\serve.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\gulp-tasks\\vendors.js",
+      "PackagePath": "staticwebassets\\layoutdmin\\gulp-tasks\\vendors.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\layoutdmin\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\layoutdmin\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\layoutdmin\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\pages\\samples\\blank-page.html",
+      "PackagePath": "staticwebassets\\layoutdmin\\pages\\samples\\blank-page.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\pages\\samples\\error-404.html",
+      "PackagePath": "staticwebassets\\layoutdmin\\pages\\samples\\error-404.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\pages\\samples\\error-500.html",
+      "PackagePath": "staticwebassets\\layoutdmin\\pages\\samples\\error-500.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\layoutdmin\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\layoutdmin\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\layoutdmin\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\layoutdmin\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\layoutdmin\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\layoutdmin\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\layoutdmin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\layoutdmin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\layoutdmin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\css\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\css\\bootstrap\\_media.css",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\_media.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\css\\bootstrap\\mixins\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\mixins\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\css\\bootstrap\\mixins\\_border-radius.css",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\mixins\\_border-radius.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\css\\bootstrap\\mixins\\_reset-text.css",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\mixins\\_reset-text.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\css\\bootstrap\\mixins\\_screen-reader.css",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\mixins\\_screen-reader.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\css\\bootstrap\\mixins\\_text-hide.css",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\mixins\\_text-hide.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\css\\bootstrap\\mixins\\_visibility.css",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\mixins\\_visibility.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\css\\bootstrap\\utilities\\_stretched-link.css",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\utilities\\_stretched-link.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\css\\style.css",
+      "PackagePath": "staticwebassets\\login\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\index.html",
+      "PackagePath": "staticwebassets\\login\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\login\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\login\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\js\\main.js",
+      "PackagePath": "staticwebassets\\login\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\js\\popper.js",
+      "PackagePath": "staticwebassets\\login\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\wwwroot\\login\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.QLTourDuLichAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.QLTourDuLichAPI.props",
+      "PackagePath": "build\\QLTourDuLichAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.QLTourDuLichAPI.props",
+      "PackagePath": "buildMultiTargeting\\QLTourDuLichAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.QLTourDuLichAPI.props",
+      "PackagePath": "buildTransitive\\QLTourDuLichAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,132 @@
+﻿
+@{
+    ViewData["Title"] = "danhsachtintuc";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@section Scripts{
+    <script src="~/admin/layoutdmin/assets/js/tintuc.js"></script>
+    <script src="https://cdn.ckeditor.com/ckeditor5/37.0.1/classic/ckeditor.js"></script>
+    @* <script>
+        ClassicEditor
+            .create(document.querySelector('#NoiDung'), {
+                // toolbar: [ 'heading', '|', 'bold', 'italic', 'link' ]
+            })
+            .then(editor => {
+                window.editor = editor;
+            })
+            .catch(err => {
+                console.error(err.stack);
+            });
+    </script>
+    <script>
+        ClassicEditor
+            .create(document.querySelector('#Mota'), {
+                // toolbar: [ 'heading', '|', 'bold', 'italic', 'link' ]
+            })
+            .then(editor => {
+                window.editor = editor;
+            })
+            .catch(err => {
+                console.error(err.stack);
+            });
+    </script>*@
+}
+<h1>danhsachtintuc</h1>
+
+<div class="content-wrapper ">
+    <div class="page-header">
+        <h3 class="page-title"> Quản lý Tin Tức </h3>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="#">Trang chủ</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Tin Tức</li>
+            </ol>
+        </nav>
+    </div>
+    <div class="col-lg-12 stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Danh Sách Tin Tức</h4>
+                <table class="table table_tintuc table-bordered">
+                    <thead>
+                        <tr class="table-info">
+                            <th>Mã Tin Tức</th>
+                            <th>Mã Nhân Viên Đăng</th>
+                            <th>Ảnh</th>
+                            <th>Mô Tả</th>
+                            <th>Nội Dung</th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody id="tbody-tintuc">
+                    </tbody>
+                </table>
+                <br />
+                <div class="text-center">Page <span id="page-number">1</span></div>
+                <div id="pagination_tintuc"></div>
+            </div>
+        </div>
+    </div>
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Tin Tức</h4>
+                <p class="card-description" id="card-action"></p>
+                <form class="forms-sample" id="form-tintuc">
+                    <div class="form-group">
+                        <label for="MaTinTuc">Mã Tin Tức</label>
+                        <input type="text" class="form-control" id="MaTinTuc" placeholder="Mã Tin Tức">
+                    </div>
+                    <div class="form-group">
+                        <label for="MaNV">Mã nhân viên</label>
+                      @*  <input type="text" class="form-control" id="MaNV" placeholder="Mã nhân viên">*@
+
+                        <select class="form-control form-control-lg" id="MaNV">
+                            @foreach (var item in ViewBag.U)
+                            {
+                                <option value="@item">@item.ToString()</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="anhdaidien">Ảnh đại diện:</label>
+                        <input type="file" id="avatar" name="anhdaidien" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="Mota">Mô Tả</label>
+                        <input rows="15" type="text" class="form-control" id="Mota" placeholder="Mô tả">
+                    </div>
+                    <div class="form-group">
+                        <label for="noidung">Nội dung</label>
+                        <textarea rows="35" class="form-control" id="noidung" placeholder="Nội Dung"></textarea>
+                    </div>
+                    <button type="button" class="btn btn-gradient-danger btn-icon-text" onclick="InsertTinTuc()">
+                        <i class="mdi mdi-upload btn-icon-prepend"></i>Thêm
+                    </button>
+                    <button type="button" class="btn btn-gradient-dark btn-icon-text" onclick="UpdateTT()">
+                        Sửa <i class="mdi mdi-file-check btn-icon-append"></i>
+                    </button>
+                    <button type="button" class="btn btn-gradient-warning btn-icon-text" onclick="resetInput()">
+                        <i class="mdi mdi-reload btn-icon-prepend"></i> Cancel
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    table.table_tintuc {
+        table-layout: fixed;
+        width: 100%;
+    }
+
+    td, th {
+        max-width: 200px; /* adjust the width to your preference */
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+</style>
