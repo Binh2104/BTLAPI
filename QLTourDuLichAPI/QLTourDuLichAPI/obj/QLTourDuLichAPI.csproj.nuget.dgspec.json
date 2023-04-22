@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\QLTourDuLichAPI.csproj": {}
+    "C:\\BTLAPI\\QLTourDuLichAPI\\QLTourDuLichAPI\\QLTourDuLichAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\QLTourDuLichAPI.csproj": {
+    "C:\\BTLAPI\\QLTourDuLichAPI\\QLTourDuLichAPI\\QLTourDuLichAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\QLTourDuLichAPI.csproj",
+        "projectUniqueName": "C:\\BTLAPI\\QLTourDuLichAPI\\QLTourDuLichAPI\\QLTourDuLichAPI.csproj",
         "projectName": "QLTourDuLichAPI",
-        "projectPath": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\QLTourDuLichAPI.csproj",
-        "packagesPath": "C:\\Users\\Binh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Binh\\Desktop\\API code\\BTLApi\\QLTourDuLichAPI\\QLTourDuLichAPI\\obj\\",
+        "projectPath": "C:\\BTLAPI\\QLTourDuLichAPI\\QLTourDuLichAPI\\QLTourDuLichAPI.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\BTLAPI\\QLTourDuLichAPI\\QLTourDuLichAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Binh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -102,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
