@@ -30,7 +30,7 @@ public partial class QltourdlApiContext : DbContext
     public virtual DbSet<KhachSanTour> KhachSanTours { get; set; }
 
     public virtual DbSet<NhanVien> NhanViens { get; set; }
-
+    //nhân đẹp trai
     public virtual DbSet<TaiKhoan> TaiKhoans { get; set; }
 
     public virtual DbSet<TinTuc> TinTucs { get; set; }
