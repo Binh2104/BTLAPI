@@ -13,6 +13,6 @@ namespace QLTourDuLichAPI.InputModelsApi
 
         public int XepHangKs { get; set; }
 
-        public string TenFileAnh { get; set; } = null!;
+        public IFormFile? TenFileAnh { get; set; } = null!;
     }
 }

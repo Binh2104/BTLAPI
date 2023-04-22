@@ -129,11 +129,13 @@ namespace QLTourDuLichAPI.Areas.Admin.Controllers
             var lstKH = (from a in db.KhachHangs select a).ToList();
             return View(lstKH);
         }
+        [Route("khachsan")]
+        [Authentication]
         public IActionResult khachsan()
         {
             ViewBag.Username = HttpContext.Session.GetString("UserName");
-            var lstTK = (from a in db.TaiKhoans select a).ToList();
-            return View(lstTK);
+            var lstKS = (from a in db.KhachSans select a).ToList();
+            return View(lstKS);
         }
     }
 }
